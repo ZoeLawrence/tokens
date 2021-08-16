@@ -1,0 +1,7 @@
+{
+    "bottom-navigation": {
+        "#active": "@theme-text-primary-normal",
+        "#inactive": "@theme-text-secondary-normal"
+    }
+}
+  
